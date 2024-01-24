@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/sumit-agarwal-797397229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumit-agarwal-797397229" height="30" width="40" /></a>
 <a href="https://instagram.com/sumit_agarwal_334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumit_agarwal_334" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sumit334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumit334" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sumit-agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumit-agarwal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22048841/sumit-agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumit-agarwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
