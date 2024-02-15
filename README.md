@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **agarwalsumit334ju@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/sumit-agarwal-797397229/](https://www.linkedin.com/in/sumit-agarwal-797397229/)
+- 📄 Know about my experiences [https://sumitsportfolioweb.netlify.app/](https://sumitsportfolioweb.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://sumitsportfolioweb.netlify.app/](https://sumitsportfolioweb.netlify.app/)
 
