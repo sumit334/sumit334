@@ -1,15 +1,15 @@
 <!--[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]-->
 <h1 align="center">Hi 👋, I'm Sumit Agarwal</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full Stack MERN Web developer from India</h3>
 <!--<img align="right" alt="coding" width="400" src="https://media.istockphoto.com/id/865457032/vector/abstract-futuristic-cyberspace-with-binary-code-matrix-background-with-digits-well-organized.jpg?s=612x612&w=0&k=20&c=IQcdedY8fn_DMq6nwc5MaHUBe0H0d5DPyibHR8J2usk=">
 -->
 
 
 <p align="left"> <a href="https://twitter.com/sumitag74478035" target="blank"><img src="https://img.shields.io/twitter/follow/sumitag74478035?logo=twitter&style=for-the-badge" alt="sumitag74478035" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **FUll Stack Web Development**
 
-- 💬 Ask me about **Cricket, Developement**
+- 💬 Ask me about **Cricket, WEB Developement**
 
 - 📫 How to reach me **agarwalsumit334ju@gmail.com**
 
